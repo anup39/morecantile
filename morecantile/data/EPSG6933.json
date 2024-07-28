@@ -1,1 +1,85 @@
 
+{
+    "title": "EPSG6933",
+    "description": "EPSG6933",
+    "id": "EPSG6933",
+    "orderedAxes": [
+        "X",
+        "Y"
+    ],
+    "crs": "http://www.opengis.net/def/crs/EPSG/0/6933",
+    "wellKnownScaleSet": null,
+    "boundingBox": null,
+    "tileMatrices": [
+        {
+            "id": "0",
+            "scaleDenominator": 484315898.9156332,
+            "cellSize": 135608.45169637728,
+            "cornerOfOrigin": "topLeft",
+            "pointOfOrigin": [
+                -17357881.81713629,
+                7324184.56362408
+            ],
+            "tileWidth": 256,
+            "tileHeight": 256,
+            "matrixWidth": 1,
+            "matrixHeight": 1
+        },
+        {
+            "id": "1",
+            "scaleDenominator": 242157949.4578166,
+            "cellSize": 67804.22584818864,
+            "cornerOfOrigin": "topLeft",
+            "pointOfOrigin": [
+                -17357881.81713629,
+                7324184.56362408
+            ],
+            "tileWidth": 256,
+            "tileHeight": 256,
+            "matrixWidth": 2,
+            "matrixHeight": 2
+        },
+        {
+            "id": "2",
+            "scaleDenominator": 121078974.7289083,
+            "cellSize": 33902.11292409432,
+            "cornerOfOrigin": "topLeft",
+            "pointOfOrigin": [
+                -17357881.81713629,
+                7324184.56362408
+            ],
+            "tileWidth": 256,
+            "tileHeight": 256,
+            "matrixWidth": 4,
+            "matrixHeight": 4
+        },
+        {
+            "id": "3",
+            "scaleDenominator": 60539487.36445415,
+            "cellSize": 16951.05646204716,
+            "cornerOfOrigin": "topLeft",
+            "pointOfOrigin": [
+                -17357881.81713629,
+                7324184.56362408
+            ],
+            "tileWidth": 256,
+            "tileHeight": 256,
+            "matrixWidth": 8,
+            "matrixHeight": 8
+        },
+        {
+            "id": "4",
+            "scaleDenominator": 30269743.682227075,
+            "cellSize": 8475.52823102358,
+            "cornerOfOrigin": "topLeft",
+            "pointOfOrigin": [
+                -17357881.81713629,
+                7324184.56362408
+            ],
+            "tileWidth": 256,
+            "tileHeight": 256,
+            "matrixWidth": 16,
+            "matrixHeight": 16
+        }
+    ]
+}

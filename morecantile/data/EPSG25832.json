@@ -3,9 +3,7 @@
   "title": "ADV_25832_Quad",
   "id": "ADV_25832_Quad",
   "orderedAxes": ["E","N"],
-  "crs": {
-    "root": "http://www.opengis.net/def/crs/EPSG/0/25832"
-  },
+  "crs": "http://www.opengis.net/def/crs/EPSG/0/25832",
   "tileMatrices": [
     {
       "id": "0",

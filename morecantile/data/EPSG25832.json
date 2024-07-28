@@ -16,7 +16,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 2,
-      "matrixHeight": 1,
+      "matrixHeight": 1
     },
     {
       "id": "1",
@@ -27,7 +27,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 4,
-      "matrixHeight": 2,
+      "matrixHeight": 2
     },
     {
       "id": "2",
@@ -38,7 +38,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 8,
-      "matrixHeight": 4,
+      "matrixHeight": 4
     },
     {
       "id": "3",
@@ -49,7 +49,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 16,
-      "matrixHeight": 8,
+      "matrixHeight": 8
     },
     {
       "id": "4",
@@ -60,7 +60,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 32,
-      "matrixHeight": 16,
+      "matrixHeight": 16
     },
     {
       "id": "5",
@@ -71,7 +71,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 64,
-      "matrixHeight": 32,
+      "matrixHeight": 32
     },
     {
       "id": "6",
@@ -82,7 +82,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 128,
-      "matrixHeight": 64,
+      "matrixHeight": 64
     },
     {
       "id": "7",
@@ -93,7 +93,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 256,
-      "matrixHeight": 128,
+      "matrixHeight": 128
     },
     { 
       "id": "8",
@@ -104,7 +104,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 512,
-      "matrixHeight": 256,
+      "matrixHeight": 256
     },
     {
       "id": "9",
@@ -115,7 +115,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 1024,
-      "matrixHeight": 512,
+      "matrixHeight": 512
     },
     {
       "id": "10",
@@ -126,7 +126,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 2048,
-      "matrixHeight": 1024,
+      "matrixHeight": 1024
     },
     {
       "id": "11",
@@ -137,7 +137,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 4096,
-      "matrixHeight": 2048,
+      "matrixHeight": 2048
     },
     {
       "id": "12",
@@ -148,7 +148,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 8192,
-      "matrixHeight": 4096,
+      "matrixHeight": 4096
     },
     {
       "id": "13",
@@ -159,7 +159,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 16384,
-      "matrixHeight": 8192,
+      "matrixHeight": 8192
     },
     {
       "id": "14",
@@ -170,7 +170,7 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 32768,
-      "matrixHeight": 16384,
+      "matrixHeight": 16384
     },
     {
       "id": "15",
@@ -181,6 +181,6 @@
       "tileWidth": 256,
       "tileHeight": 256,
       "matrixWidth": 65536,
-      "matrixHeight": 32768,
+      "matrixHeight": 32768
     }]
 }
